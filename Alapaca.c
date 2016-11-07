@@ -2,7 +2,7 @@
 
 int main(void){
 	while(-1){
-	printf("ALPACA ALPACA ALPACA ALPACA ALPACA ALPACA <3 <3");
+	printf("ALPACA ALPACA ALPACA ALPACA ALPACA ALPACA sans keur keur \n");
 	}
 	return 0;
 }
